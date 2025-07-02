@@ -66,4 +66,10 @@ In the dynamic taxi industry, **increasing driver revenue** is key. This project
 ---
 
 ## 📎 Project Structure
+├── data/ # Dataset and preprocessing files
+├── notebooks/ # Jupyter notebooks for EDA & modeling
+├── results/ # Graphs, plots, summary reports
+├── README.md # Project documentation
+├── hypothesis_test.py # T-test implementation
+└── regression_model.py # Linear regression script
 
