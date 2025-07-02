@@ -43,7 +43,7 @@ In the dynamic taxi industry, **increasing driver revenue** is key. This project
 1. **Data Cleaning & Feature Engineering**
 2. **Descriptive Analysis** of payment behaviors
 3. **T-test Hypothesis Testing** (Card vs Cash fare amounts)
-4. **Linear Regression** on trip duration vs fare
+4. **correlation analysis** on trip duration vs fare
 5. **Visualization** of trends and distribution
 
 ---
@@ -66,10 +66,18 @@ In the dynamic taxi industry, **increasing driver revenue** is key. This project
 ---
 
 ## 📎 Project Structure
+
 ├── data/ # Dataset and preprocessing files
+
+
 ├── notebooks/ # Jupyter notebooks for EDA & modeling
+\
+
 ├── results/ # Graphs, plots, summary reports
-├── README.md # Project documentation
+
+
 ├── hypothesis_test.py # T-test implementation
-└── regression_model.py # Linear regression script
+
+
+└── correlation_model # correlation analysis
 
